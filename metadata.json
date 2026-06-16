@@ -1,0 +1,6 @@
+{
+  "name": "Sadosa 2026 Nivel Primario",
+  "description": "Plataforma de horarios de entrevistas y rol de evaluaciones de la Unidad Educativa Santo Domingo Sabio 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
